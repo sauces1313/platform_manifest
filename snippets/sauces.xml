@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="stevesoltys-github"
+           fetch="https://github.com/stevesoltys/"
+           revision="refs/heads/master" />
+
+  <project path="packages/apps/Seedvault" name="seedvault-prebuilt" remote="stevesoltys-github" />
+
+</manifest>
